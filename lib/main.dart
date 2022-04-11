@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_catalogue/home.dart';
+import 'package:flutter_catalogue/pages/home.dart';
 
 void main() {
   runApp(AmarApp());
